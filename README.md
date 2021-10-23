@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @6346TX
+- 👀 I’m interested in CS:GO
+- 🌱 I’m currently learning o code cheats in c++
+- 💞️ I’m looking to collaborate on csgo cheats
+- 📫 How to reach me 6346XT#9306
